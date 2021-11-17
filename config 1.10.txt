@@ -1,0 +1,6 @@
+{
+	"ip":"Suraj1501s.aternos.me",
+	"port": "63679",
+	"name": "BOT90",
+	"auto-night-skip":"true"
+}
